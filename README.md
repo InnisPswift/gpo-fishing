@@ -1,5 +1,18 @@
 # 🎣 GPO Autofish
 
+## What is this?
+
+An automated fishing macro for Grand Piece Online (Roblox). This tool uses screen capture to detect the fishing minigame and automatically controls the fishing bar using a PD (Proportional-Derivative) controller algorithm to catch fish. It can also automatically purchase bait after a set number of catches.
+
+**Features:**
+
+- Automatic fish detection and tracking
+- PD controller for smooth, accurate bar control
+- Configurable auto-purchase system for bait
+- Draggable detection overlay
+- Global hotkey support (F1/F2/F3)
+- Tunable parameters for optimal performance
+
 ## Installation
 
 1. **Clone or download this repository**
